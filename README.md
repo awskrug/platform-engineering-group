@@ -1,5 +1,15 @@
 # platform-engineering-group
 
+## 제 2회 - 2024/01/11
+
+### 당근 개발자 플랫폼은 어떤 문제를 해결하고 있는가?
+
+[![발표자: 변정훈님 (당근마켓 SRE)](https://img.shields.io/badge/발표자-변정훈님_(당근마켓_SRE)-8A2BE2?style=flat-square&labelColor=black)](https://github.com/outsideris)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/298048627/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0002-what-daangn-idp-solve.pdf)
+
+배포 시스템으로 시작해서 내부 개발자 플랫폼으로 발전하면서 그동안 어떤 고민을 했고, 어떤 문제를 해결하려고 했는지를 설명합니다.
+
 ## 제 1회 - 2023/11/21
 
 ### Platform Engineering 101
