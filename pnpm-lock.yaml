@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 devDependencies:
+  '@jjangga0214/markdownlint-config':
+    specifier: ^1.1.0
+    version: 1.1.0(markdownlint-cli@0.37.0)
   husky:
     specifier: ^8.0.0
     version: 8.0.3
@@ -27,6 +30,14 @@ packages:
       strip-ansi-cjs: /strip-ansi@6.0.1
       wrap-ansi: 8.1.0
       wrap-ansi-cjs: /wrap-ansi@7.0.0
+    dev: true
+
+  /@jjangga0214/markdownlint-config@1.1.0(markdownlint-cli@0.37.0):
+    resolution: {integrity: sha512-AkWPGwuVPClAAT2GSw7ckvITp+V/vqp8mY0PIuDgYOSxEXR8DtAK8gDNW2+w4v53ORGIoUcTzC5P/dcqi+iuWg==}
+    peerDependencies:
+      markdownlint-cli: '>=0.30.0'
+    dependencies:
+      markdownlint-cli: 0.37.0
     dev: true
 
   /@pkgjs/parseargs@0.11.0:

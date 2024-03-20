@@ -1,0 +1,4 @@
+{
+  "extends": "@jjangga0214/markdownlint-config",
+  "line-length": false
+}

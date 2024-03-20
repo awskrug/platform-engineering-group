@@ -1,5 +1,14 @@
 # platform-engineering-group
 
+## 제 3회 - 2024/02/06
+
+### 카카오페이 컨테이너환경 시스템에서 카카오페이증권의 개발자 생산성 플랫폼을 목표로
+
+![발표자: 조지훈님 (카카오페이증권 기술플랫폼실)](https://img.shields.io/badge/발표자-조지훈님_(카카오페이증권_기술플랫폼실)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/298606250/)
+
+플랫폼엔지니어링이란 워딩도 없던 18년, 컨테이너환경 시스템으로 시작한 플랫폼들을 어떤 고민들과 함께 발전시키고 있는지, 금융이란 여러 제약사항을 갖고 있는 환경에서 고군분투하고 있는 이야기를 공유해보고자 합니다.
+
 ## 제 2회 - 2024/01/10
 
 ### 당근 개발자 플랫폼은 어떤 문제를 해결하고 있는가?
