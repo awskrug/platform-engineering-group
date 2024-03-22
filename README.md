@@ -2,14 +2,21 @@
 
 ## 제 4회 - 2024/03/20
 
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/299591802/)
+
 ### 한 발자국 내딛기
 
 ![발표자: 정주리님 (무신사 SRE)](https://img.shields.io/badge/발표자-정주리님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
-![발표자: 신재현님 (무신사 SRE)](https://img.shields.io/badge/발표자-신재현님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
-[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/299591802/)
 [![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0004-한-발자국-내딛기.pdf)
 
 무신사의 플랫폼엔지니어링 여정에서 내딛은 발자국들의 이야기를 공유해보고자 합니다.
+
+### 좌충우돌 백스테이지(IDP) 도입기
+
+![발표자: 신재현님 (무신사 SRE)](https://img.shields.io/badge/발표자-신재현님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0004-좌충우돌-백스테이지-도입기.pdf)
+
+IDP란 무엇인지, 왜 백스테이지어야 했는지, 도입할 때 겪은 문제들과 QnA 와 함께 이야기해 봅니다.
 
 ## 제 3회 - 2024/02/06
 
