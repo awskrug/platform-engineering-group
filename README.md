@@ -1,5 +1,16 @@
 # platform-engineering-group
 
+## 제 4회 - 2024/03/20
+
+### 한 발자국 내딛기
+
+![발표자: 정주리님 (무신사 SRE)](https://img.shields.io/badge/발표자-정주리님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
+![발표자: 신재현님 (무신사 SRE)](https://img.shields.io/badge/발표자-신재현님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/299591802/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0004-한-발자국-내딛기.pdf)
+
+무신사의 플랫폼엔지니어링 여정에서 내딛은 발자국들의 이야기를 공유해보고자 합니다.
+
 ## 제 3회 - 2024/02/06
 
 ### 카카오페이 컨테이너환경 시스템에서 카카오페이증권의 개발자 생산성 플랫폼을 목표로
