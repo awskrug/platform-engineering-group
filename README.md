@@ -40,7 +40,7 @@ IDP란 무엇인지, 왜 백스테이지어야 했는지, 도입할 때 겪은 �
 
 ### 카카오페이 컨테이너환경 시스템에서 카카오페이증권의 개발자 생산성 플랫폼을 목표로
 
-![발표자: 조지훈님 (카카오페이증권 기술플랫폼실)](https://img.shields.io/badge/발표자-조지훈님_(카카오페이증권_기술플랫폼실)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자: 조지훈님 (카카오페이증권 기술플랫폼실)](https://img.shields.io/badge/발표자-조지훈님_(카카오페이증권_기술플랫폼실)-8A2BE2?style=flat-square&labelColor=black)]()
 [![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/298606250/)
 [![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0003-컨테이너환경-시스템에서-개발자-생산성-플랫폼을-목표로.pdf)
 
