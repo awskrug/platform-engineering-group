@@ -6,14 +6,14 @@
 
 ### Preview Deployment로 베타 환경에 날개달기
 
-![발표자: 김요욱님 (우아한형제들 프론트엔드)](https://img.shields.io/badge/발표자-김요욱님_(우아한형제들_프론트엔드)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자: 김요욱님 (우아한형제들 프론트엔드)](https://img.shields.io/badge/발표자-김요욱님_(우아한형제들_프론트엔드)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/yo-wook-kim-0890481a2/)
 [![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0005-Preview-Deployment로-베타-환경에-날개달기.pdf)
 
 제약없이 자유롭게 배포하면 그대로 새 베타 환경이 되는 Preview Deployment를 소개합니다.
 
 ### 클라우드 권한을 개발팀에 맡겨도 안전한 당근 리소스 플랫폼
 
-![발표자: 김승호님 (당근 SRE)](https://img.shields.io/badge/발표자-김승호님_(당근_SRE)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자: 김승호님 (당근 SRE)](https://img.shields.io/badge/발표자-김승호님_(당근_SRE)-8A2BE2?style=flat-square&labelColor=black)](https://github.com/raccoonyy)
 
 클라우드 권한을 개발팀에 열어두는 당근의 문화를 유지하면서, 규칙 기반 리소스 생성과 리소스 가시성을 어떻게 확보할 수 있었을까요?
 당근의 리소스 플랫폼을 만들면서 겪은 우여곡절과 앞으로의 고민 등을 나눕니다.
@@ -24,14 +24,14 @@
 
 ### 한 발자국 내딛기
 
-![발표자: 정주리님 (무신사 SRE)](https://img.shields.io/badge/발표자-정주리님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자: 정주리님 (무신사 SRE)](https://img.shields.io/badge/발표자-정주리님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/juri-jung-434bab166/)
 [![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0004-한-발자국-내딛기.pdf)
 
 무신사의 플랫폼엔지니어링 여정에서 내딛은 발자국들의 이야기를 공유해보고자 합니다.
 
 ### 좌충우돌 백스테이지(IDP) 도입기
 
-![발표자: 신재현님 (무신사 SRE)](https://img.shields.io/badge/발표자-신재현님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자: 신재현님 (무신사 SRE)](https://img.shields.io/badge/발표자-신재현님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/재현-신-38051469/)
 [![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0004-좌충우돌-백스테이지-도입기.pdf)
 
 IDP란 무엇인지, 왜 백스테이지어야 했는지, 도입할 때 겪은 문제들과 QnA 와 함께 이야기해 봅니다.
