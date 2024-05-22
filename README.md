@@ -1,5 +1,23 @@
 # platform-engineering-group
 
+## 제 5회 - 2024/04/09
+
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/300007064)
+
+### Preview Deployment로 베타 환경에 날개달기
+
+![발표자: 김요욱님 (우아한형제들 프론트엔드)](https://img.shields.io/badge/발표자-김요욱님_(우아한형제들_프론트엔드)-8A2BE2?style=flat-square&labelColor=black)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0005-Preview-Deployment로-베타-환경에-날개달기.pdf)
+
+제약없이 자유롭게 배포하면 그대로 새 베타 환경이 되는 Preview Deployment를 소개합니다.
+
+### 클라우드 권한을 개발팀에 맡겨도 안전한 당근 리소스 플랫폼
+
+![발표자: 김승호님 (당근 SRE)](https://img.shields.io/badge/발표자-김승호님_(당근_SRE)-8A2BE2?style=flat-square&labelColor=black)
+
+클라우드 권한을 개발팀에 열어두는 당근의 문화를 유지하면서, 규칙 기반 리소스 생성과 리소스 가시성을 어떻게 확보할 수 있었을까요?
+당근의 리소스 플랫폼을 만들면서 겪은 우여곡절과 앞으로의 고민 등을 나눕니다.
+
 ## 제 4회 - 2024/03/20
 
 [![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/299591802/)
@@ -24,6 +42,7 @@ IDP란 무엇인지, 왜 백스테이지어야 했는지, 도입할 때 겪은 �
 
 ![발표자: 조지훈님 (카카오페이증권 기술플랫폼실)](https://img.shields.io/badge/발표자-조지훈님_(카카오페이증권_기술플랫폼실)-8A2BE2?style=flat-square&labelColor=black)
 [![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/298606250/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0003-컨테이너환경-시스템에서-개발자-생산성-플랫폼을-목표로.pdf)
 
 플랫폼엔지니어링이란 워딩도 없던 18년, 컨테이너환경 시스템으로 시작한 플랫폼들을 어떤 고민들과 함께 발전시키고 있는지, 금융이란 여러 제약사항을 갖고 있는 환경에서 고군분투하고 있는 이야기를 공유해보고자 합니다.
 
