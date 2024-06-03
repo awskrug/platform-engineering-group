@@ -1,5 +1,15 @@
 # platform-engineering-group
 
+## 제 6회 - 2024/05/29
+
+### DevOps의 혁신: Amazon EKS를 활용한 플랫폼 엔지니어링 적용하기 chalk talk edition
+
+[![발표자: 류한진님 (AWS DevOps Consultant)](https://img.shields.io/badge/발표자-류한진님_(AWS_DevOps_Consultant)-8A2BE2?style=flat-square&labelColor=black)](https://github.com/Ryu-Hanjin)
+[![발표자: 신재현님 (무신사 SRE)](https://img.shields.io/badge/발표자-신재현님_(무신사_SRE)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/재현-신-38051469/)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/301083060/)
+
+동일한 제목으로 AWS Summit에서 열렸던 세션의 발표자들이 Chalk talk 형식으로 자유롭게 플랫폼 엔지니어링에 대해 이야기 드리고 참석자들과 함께 논의를 나눕니다.
+
 ## 제 5회 - 2024/04/09
 
 [![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/300007064)
