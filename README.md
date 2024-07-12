@@ -1,5 +1,14 @@
 # platform-engineering-group
 
+## 제 7회 - 2024/07/10
+
+### 한국에서 아마존 SDE로 살아남기
+
+[![발표자: 심명선님 (AWS Software Development Engineer)](https://img.shields.io/badge/발표자-심명선님_(AWS_Software_Development_Engineer)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/재현-신-38051469/)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/301414888/)
+
+한국인 개발자로서 아마존 AWS에 입사하여 SDE로서 경험한 개발 문화와 프로세스에 대해 이야기해보려 합니다.
+
 ## 제 6회 - 2024/05/29
 
 ### DevOps의 혁신: Amazon EKS를 활용한 플랫폼 엔지니어링 적용하기 chalk talk edition
