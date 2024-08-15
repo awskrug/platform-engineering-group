@@ -1,5 +1,19 @@
 # platform-engineering-group
 
+## 제 8회 - 2024/08/13
+
+### AWS Summit Japan 2024 및 JAWS 방문 후기
+
+[![발표자: 김수빈님 (당근마켓 Software Engineer)](https://img.shields.io/badge/발표자-김수빈님_(당근마켓_Software_Engineer)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/sudosubin)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/302549855/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0008-AWS-Summit-Japan-2024-및-JAWS-방문-후기.pdf)
+
+AWS Summit Japan 2024에 참석하여 들은 여러 세션 내용, AWS 일본 사용자 모임인 JAWS 멤버 분들과 교류한 후기 등을 공유 드립니다.
+
+* The Goldilocks Zone - PlayStation™ Network에서의 Platform 운영에 대해
+* 동기라는 착각 - 세계는 비동기로 구성되어 있다
+* 규모가 커지면서 개발 속도가 떨어졌다 - 모놀리식 애플리케이션을 잘 분리하는 방법
+
 ## 제 7회 - 2024/07/10
 
 ### 한국에서 아마존 SDE로 살아남기
