@@ -1,5 +1,16 @@
 # platform-engineering-group
 
+## 제 9회 - 2024/09/27
+
+### 개발자 경험을 향상시키는 내부 개발자 플랫폼(IDP) 구축하기
+
+![발표자: 조재욱님 (Cloudtype CEO)](https://img.shields.io/badge/발표자-조재욱님_(Cloudtype_CEO)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-KR/awskrug/events/303171482)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0009-개발자-경험을-향상시키는-내부-개발자-플랫폼(IDP)-구축하기.pdf)
+
+플랫폼 엔지니어링에서 내부 개발자 플랫폼(IDP)은 팀의 생산성과 효율성을 높이는 핵심 요소입니다.
+Vercel과 같은 개발자에게 익숙한 DX 를 우리 팀의 개발자 플랫폼에 적용할 수 있는 방법을 소개하고 개발자들이 기대하는 기능과 사용성을 어떻게 구현하고 확장할 수 있는지, IDP가 개발자들의 일상 업무에 어떻게 기여할 수 있는지에 대해 알아봅니다.
+
 ## 제 8회 - 2024/08/13
 
 ### AWS Summit Japan 2024 및 JAWS 방문 후기
