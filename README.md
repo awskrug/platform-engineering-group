@@ -6,7 +6,7 @@
 
 ![발표자: 신위섭님 (카카오페이증권 Software Engineer)](https://img.shields.io/badge/발표자-신위섭님_(카카오페이증권_Software_Engineer)-8A2BE2?style=flat-square&labelColor=black)
 [![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/304301333/?eventOrigin=group_past_events)
-![발표자료(업로드 대기중)](https://img.shields.io/badge/발표자료_(업로드_대기중)-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)
+![[발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0010-쿠버네티스-지능형-리소스-최적화-Dr.Pym.pdf)
 
 *"쿠버네티스 클러스터에 구성된 서비스의 리소스를 어떻게 관리하고 계신가요?"* 에서 비롯된 지능형 리소스 최적화 시스템 구축 프로젝트 과정을 소개합니다.
 이 세션을 통해 효율적 리소스 관리를 통한 비용절감 방법을 얻어가실 수 있습니다.
