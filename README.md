@@ -1,5 +1,16 @@
 # platform-engineering-group
 
+## 제 17회 - 2025/10/28
+
+### AWS FIS로 장애/재해 관리 전략 평가하기
+
+![발표자: 신 안셀모님 (Cloud Architects, AWS Professional Services)](https://img.shields.io/badge/발표자-신_안셀모님_(Cloud_Architects,_AWS_Professional_Services)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/311319232/)
+
+이번 밋업에서는 Resilience에 대해 살펴봅니다.
+
+클라우드 환경에의 리스크(장애/재해) 대응 전략 수립은 어떻게 해야하며, 수립한 전략을 AWS FIS를 사용해 평가하는 법에 대하여 이야기합니다.
+
 ## 제 16회 - 2025/07/01
 
 ### Agentic MCP for Amazon EKS 핸즈온: Gen AI 기반 인프라 운영의 새로운 패러다임
