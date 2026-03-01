@@ -1,5 +1,18 @@
 # platform-engineering-group
 
+## 제 18회 - 2026/02/25
+
+### State of Platform Engineering report in 2025
+
+![발표자: 류한진님 (AWS DevOps Consultant)](https://img.shields.io/badge/발표자-류한진님_(AWS_DevOps_Consultant)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/313184195/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0018-State-of-Platform-Engineering-report-in-2025.pdf)
+
+이번 모임은 2026년 첫 모임인 만큼 최신 리포트들을 살펴보고 플랫폼 엔지니어링의 현재 모습이 무엇인지 되돌아보는 시간을 가지려합니다.
+
+- ​플랫폼 엔지니어링에 관련된 최신 리포트들의 내용을 살펴보고 플랫폼의 현재 모습과 모던 플랫폼의 지향점을 알아봅니다.
+- ​특히 AX의 시대에 AI Capability를 갖추기 위한 Platform의 모습 대해 생각해볼 수 있는 기회가 될 것입니다.
+
 ## 제 17회 - 2025/10/28
 
 ### AWS FIS로 장애/재해 관리 전략 평가하기
