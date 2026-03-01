@@ -21,6 +21,7 @@
 Gen AI가 코드만이 아닌 운영 방식 자체를 혁신하는 시대, Amazon EKS 위에서 실행되는 Agentic MCP(Model Context Protocol)는 인프라 운영의 새로운 가능성을 제시합니다.
 
 본 워크샵에서는 오픈소스로 공개된 Agentic MCP for EKS 핸즈온랩 실습을 통해,
+
 - Amazon Q Developer와 연계된 AI 에이전트가 어떻게 Kubernetes 기반 운영을 지원할 수 있는지
 - 코드 생성 + 실행 + 트러블슈팅이 하나의 흐름으로 연결되는 Agentic Workflow가 어떤 모습인지
 - 실제 Git 기반 설정 파일과 EKS 리소스를 자동으로 생성·관리하는 방식
@@ -111,9 +112,9 @@ Vercel과 같은 개발자에게 익숙한 DX 를 우리 팀의 개발자 플랫
 
 AWS Summit Japan 2024에 참석하여 들은 여러 세션 내용, AWS 일본 사용자 모임인 JAWS 멤버 분들과 교류한 후기 등을 공유 드립니다.
 
-* The Goldilocks Zone - PlayStation™ Network에서의 Platform 운영에 대해
-* 동기라는 착각 - 세계는 비동기로 구성되어 있다
-* 규모가 커지면서 개발 속도가 떨어졌다 - 모놀리식 애플리케이션을 잘 분리하는 방법
+- The Goldilocks Zone - PlayStation™ Network에서의 Platform 운영에 대해
+- 동기라는 착각 - 세계는 비동기로 구성되어 있다
+- 규모가 커지면서 개발 속도가 떨어졌다 - 모놀리식 애플리케이션을 잘 분리하는 방법
 
 ## 제 7회 - 2024/07/10
 
