@@ -1,5 +1,16 @@
 # platform-engineering-group
 
+## 제 20회 - 2026/04/15
+
+### 에이전트 시대의 소프트웨어 개발 — 하네스 엔지니어링과 AI-DLC 플랫폼
+
+![발표자: 류한진님 (AWS DevOps Consultant)](https://img.shields.io/badge/발표자-류한진님_(AWS_Senior_Dlivery_Consultant)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/313678685/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0019-harness-engineering-ai-dlc.pdf)
+
+- 이번 세션에서는 에이전트가 신뢰성 있게 소프트웨어를 구축할 수 있도록 환경과 제약 조건, 피드백 루프를 설계하는 방법론인 하네스 엔지니어링(Harness Engineering)을 소개합니다.
+- 사례를 통해 핵심 원칙과 패턴을 살펴보고, 이를 AI-DLC 플랫폼에 어떻게 적용하고 있는지 살펴봅니다.
+
 ## 제 18회 - 2026/02/25
 
 ### State of Platform Engineering report in 2025
