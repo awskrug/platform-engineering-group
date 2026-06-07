@@ -1,15 +1,43 @@
 # platform-engineering-group
 
+## 제 21회 - 2026/06/02
+
+### 비즈니스 옵저버빌리티: 모니터링에서 비즈니스 메트릭을 뽑아야 하는 이유와 방법
+
+[![발표자: 임성현님 (Practice Manager, AWS Professional Services)](https://img.shields.io/badge/발표자-임성현님_(Practice_Manager,_AWS_Professional_Services)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/sunghyun-lim-27645385/)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/314830108/)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0021-business-observability.pdf)
+
+"시스템 메트릭만으로는 보이지 않는 비즈니스 임팩트를 어떻게 측정할 것인가?" 라는 주제로, 비즈니스 관점의 옵저버빌리티 필요성과 플랫폼 엔지니어링 레벨에서의 구현 방법을 사례 중심으로 공유합니다.
+
 ## 제 20회 - 2026/04/15
 
 ### 에이전트 시대의 소프트웨어 개발 — 하네스 엔지니어링과 AI-DLC 플랫폼
 
 ![발표자: 류한진님 (AWS DevOps Consultant)](https://img.shields.io/badge/발표자-류한진님_(AWS_Senior_Dlivery_Consultant)-8A2BE2?style=flat-square&labelColor=black)
 [![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/313678685/)
-[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0019-harness-engineering-ai-dlc.pdf)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0020-harness-engineering-ai-dlc.pdf)
 
 - 이번 세션에서는 에이전트가 신뢰성 있게 소프트웨어를 구축할 수 있도록 환경과 제약 조건, 피드백 루프를 설계하는 방법론인 하네스 엔지니어링(Harness Engineering)을 소개합니다.
 - 사례를 통해 핵심 원칙과 패턴을 살펴보고, 이를 AI-DLC 플랫폼에 어떻게 적용하고 있는지 살펴봅니다.
+
+## 제 19회 - 2026/03/31
+
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/awskrug/events/313714237/)
+
+### 장애에 강한 팀 만들기: 서버리스 온콜 시스템 구축과 서비스 모니터링 개선 실전기
+
+[![발표자: 이태근님 (올리브영 SRE)](https://img.shields.io/badge/발표자-이태근님_(올리브영_SRE)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/taekeunlee/)
+[![발표자: 김수빈님 (당근마켓 Software Engineer)](https://img.shields.io/badge/발표자-김수빈님_(당근마켓_Software_Engineer)-8A2BE2?style=flat-square&labelColor=black)](https://www.linkedin.com/in/sudosubin/)
+
+Amazon Connect, SES 기반 서버리스 온콜 시스템 구축 경험과 Amazon CloudFront, MSK 등 서비스의 모니터링 체계를 개선하여 장애 인지부터 대응까지의 효율화 사례를 다룹니다.
+
+### Private한 환경에서 Amazon Bedrock 구성하기
+
+![발표자: 김동일님](https://img.shields.io/badge/발표자-김동일님-8A2BE2?style=flat-square&labelColor=black)
+[![발표자료](https://img.shields.io/badge/발표자료-4285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](./presentations/0019-private-amazon-bedrock.pdf)
+
+VPC Endpoint 서비스 중 VPN Connection과 PrivateLink를 활용하여 Amazon Bedrock 서비스를 Private하게 구축하는 방법을 소개합니다.
 
 ## 제 18회 - 2026/02/25
 
