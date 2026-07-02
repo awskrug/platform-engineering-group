@@ -1,5 +1,16 @@
 # platform-engineering-group
 
+## 제 22회 - 2026/07/02
+
+### EC2에 올린 또 하나의 나, 아바타봇
+
+![발표자: 김기웅님 (AWS Professional Services DevOps Consultant)](https://img.shields.io/badge/발표자-김기웅님_(AWS_Professional_Services_DevOps_Consultant)-8A2BE2?style=flat-square&labelColor=black)
+[![밋업](https://img.shields.io/badge/밋업-ED1C40?style=flat-square&logo=meetup)](https://www.meetup.com/ko-kr/awskrug/events/315380582/)
+
+내 얼굴과 페르소나를 복제한 아바타가 EC2 위에서 실시간으로 듣고 답하며 화상회의에 나 대신 들어간다.
+
+Nova 2 Sonic 음성 대화 + 립싱크 토킹헤드를 가상 카메라/오디오 디바이스로 연결한 프로젝트.
+
 ## 제 21회 - 2026/06/02
 
 ### 비즈니스 옵저버빌리티: 모니터링에서 비즈니스 메트릭을 뽑아야 하는 이유와 방법
